@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Kelvin Tam! 👋
 
-<!--
-**kelvinthh/kelvinthh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Mostly doing mobile/front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 2.5 years in software development.
+
+📱 I love React Native
+
+## 🌟 Skills
+
+- 📱 Mobile Development (React Native/Java/Kotlin)
+- 🌐 Web Development (React/Next.js in JavaScript/TypeScript, Tailwind CSS)
+- ☕ Python
+- 💻 Kotlin
+- 🎮 Game Dev (Unity/C#)
+- 🎨 UI/UX Design (Adobe XD, Sketch, Figma)
