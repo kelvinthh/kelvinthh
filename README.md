@@ -4,9 +4,9 @@
 
 🎓 Mostly doing mobile/front-end development.
 
-💼 2.5 years in software development.
+💼 2+ years in software development.
 
-📱 I love React Native
+📱 I love React/React Native
 
 ## 🌟 Skills
 
