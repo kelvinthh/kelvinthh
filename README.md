@@ -1,18 +1,19 @@
-# Hi there, I'm Kelvin Tam! 👋
+# Welcome to my GitHub! 👋
 
 ## 🚀 About Me
 
-🎓 Mostly doing mobile/front-end development.
+🎓 Mostly doing mobile/front-end development. 2+ years in software development.
 
-💼 2+ years in software development.
+📱	React & React Native mostly.
 
-📱 I love React/React Native
-
-## 🌟 Skills
+### 🌟 Frequent Skills
 
 - 📱 Mobile Development (React Native/Java/Kotlin)
 - 🌐 Web Development (React/Next.js in JavaScript/TypeScript, Tailwind CSS)
+
+### 📝 Skills 
+	
 - ☕ Python
-- 💻 Kotlin
+- 💻 Java
 - 🎮 Game Dev (Unity/C#)
 - 🎨 UI/UX Design (Adobe XD, Sketch, Figma)
