@@ -1,14 +1,19 @@
 # Welcome 👋
 
-🎓 Software Developer for 2+ years of experience! Frontend & Mobile.
+🎓 Software Developer with 2+ years of experience! Frontend & Mobile.
 
 📱 React & React Native mostly.
 
+<a href="https://kelvintam.dev">
+  <img height=200 align="center" src="https://github-readme-stats.kelvintam.dev/api?username=kelvinthh&hide_rank=true&theme=radical&hide=issues,contribs" />
+</a>
+<a href="https://img-gen.kelvintam.dev">
+  <img height=200 align="center" src="https://github-readme-stats.kelvintam.dev/api/top-langs?username=kelvinthh&layout=compact&langs_count=6&card_width=320&theme=radical&hide=C%23,SourcePawn,ShaderLab,Java,HLSL,GLSL,C%2b%2b" />
+</a>
+
 ### 🌐 Explore My Portfolio at [kelvintam.dev](https://kelvintam.dev)! :
 
-Check out my personal website at [kelvintam.dev](https://kelvintam.dev) to delve into my professional and personal projects, all crafted with love using React + Vite, Tailwind CSS, and deployed on Azure's Static Web App platform. Don't miss the Responsive Design!
-
-🔍 Currently **_open to work_** opportunities in the Greater Toronto Area and Vancouver. I'm also eligible for work in the United Kingdom and am open to opportunities there. Feel free to [contact me](https://www.linkedin.com/in/hhtam)!
+Check out my personal website at [kelvintam.dev](https://kelvintam.dev) to delve into my professional and personal projects, all crafted with love using React + Vite, Tailwind CSS, deployed on Azure Static Web App!
 
 ### 🌟 Frequent Skills
 
@@ -23,5 +28,4 @@ Check out my personal website at [kelvintam.dev](https://kelvintam.dev) to delve
 - 🎨 UI/UX Design (Adobe XD, Sketch, Figma)
 
 ## 📬 Get in Touch
-
-I'd love to hear from you. You can contact me on [LinkedIn](https://www.linkedin.com/in/hhtam) for any opportunities, questions, or just a chat!
+🔍 Currently **_open to work_** opportunities in Canada🇨🇦 & the UK🇬🇧, all cities are welcomed! Feel free to [contact me on LinkedIn](https://www.linkedin.com/in/hhtam) for any opportunities, questions, or just a chat!!
