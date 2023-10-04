@@ -5,10 +5,10 @@
 📱 React & React Native mostly.
 
 <a href="https://kelvintam.dev">
-  <img height=200 align="center" src="https://github-readme-stats.kelvintam.dev/api?username=kelvinthh&hide_rank=true&theme=radical&hide=issues,contribs" />
+  <img height=200 align="center" src="https://github-readme-stats.kelvintam.dev/api?username=kelvinthh&hide_rank=true&hide=issues,contribs&hide_border=true&theme=radical" />
 </a>
 <a href="https://img-gen.kelvintam.dev">
-  <img height=200 align="center" src="https://github-readme-stats.kelvintam.dev/api/top-langs?username=kelvinthh&layout=compact&langs_count=6&card_width=320&theme=radical&hide=C%23,SourcePawn,ShaderLab,Java,HLSL,GLSL,C%2b%2b" />
+  <img height=200 align="center" src="https://github-readme-stats.kelvintam.dev/api/top-langs?username=kelvinthh&layout=compact&langs_count=6&card_width=320&hide=C%23,SourcePawn,ShaderLab,Java,HLSL,GLSL,C%2b%2b&hide_border=true&theme=radical" />
 </a>
 
 ### 🌐 Explore My Portfolio at [kelvintam.dev](https://kelvintam.dev)! :
