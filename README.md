@@ -1,6 +1,6 @@
 # Welcome 👋
 
-🎓 Software Developer with 2+ years of experience! Frontend & Mobile.
+🎓 London-based Software Developer with 2.5+ years of experience! Frontend & Mobile.
 
 📱 React & React Native mostly.
 
@@ -17,7 +17,7 @@ Check out my personal website at [kelvintam.dev](https://kelvintam.dev) to delve
 
 ### 🌟 Frequent Skills
 
-- 📱 Mobile Development (React Native/Java/Kotlin)
+- 📱 Mobile Development (React Native/Java/Kotlin/Unity C#)
 - 🌐 Web Development (React/Next.js in JavaScript/TypeScript, Tailwind CSS)
 
 ### 📝 Skills 
@@ -28,4 +28,6 @@ Check out my personal website at [kelvintam.dev](https://kelvintam.dev) to delve
 - 🎨 UI/UX Design (Adobe XD, Sketch, Figma)
 
 ## 📬 Get in Touch
-🔍 Currently **_open to work_** opportunities in Canada🇨🇦 & the UK🇬🇧, all cities are welcomed! Feel free to [contact me on LinkedIn](https://www.linkedin.com/in/hhtam) for any opportunities, questions, or just a chat!!
+* 🔍 Currently **_open to work_** opportunities in the UK🇬🇧 and Canada🇨🇦, I'm a British national and hold a valid Canadian Open Work Permit.
+* For Canada🇨🇦, all provinces and cities' openings are welcomed as I am feeling to relocate!
+* Feel free to [contact me on LinkedIn](https://www.linkedin.com/in/hhtam) for any opportunities, questions, or just a chat!!
