@@ -1,6 +1,6 @@
 # Welcome 👋
 
-🎓 London-based Software Developer with 2.5+ years of experience! Frontend & Mobile.
+🎓 London-based Software Developer! Frontend & Mobile.
 
 📱 React & React Native mostly.
 
