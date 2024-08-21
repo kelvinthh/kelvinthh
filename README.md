@@ -1,6 +1,6 @@
 # Welcome 👋
 
-🎓 London-based Software Developer! Frontend & Mobile.
+🎓 London-based Software Developer! Frontend on Web & Mobile.
 
 📱 React & React Native mostly.
 
@@ -17,8 +17,8 @@ Check out my personal website at [kelvintam.dev](https://kelvintam.dev) to delve
 
 ### 🌟 Frequent Skills
 
-- 📱 Mobile Development (React Native/Java/Kotlin/Unity C#)
 - 🌐 Web Development (React/Next.js in JavaScript/TypeScript, Tailwind CSS)
+- 📱 Mobile Development (React Native/Java/Kotlin/Unity C#)
 
 ### 📝 Skills 
 	
