@@ -1,6 +1,6 @@
 # Welcome 👋
 
-🎓 London-based Software Developer! Frontend on Web & Mobile.
+🎓 Software Developer specializing in Frontend Web & Mobile Development.
 
 📱 React & React Native mostly.
 
@@ -28,6 +28,6 @@ Check out my personal website at [kelvintam.dev](https://kelvintam.dev) to delve
 - 🎨 UI/UX Design (Adobe XD, Sketch, Figma)
 
 ## 📬 Get in Touch
-* 🔍 Currently **_open to work_** opportunities in the UK🇬🇧 and Canada🇨🇦, I'm a British national and hold a valid Canadian Open Work Permit.
-* For Canada🇨🇦, all provinces and cities' openings are welcomed as I am feeling to relocate!
+* 🔍 Currently **_open to work_** opportunities in Canada🇨🇦! I hold a valid Canadian Open Work Permit.
+* Open to opportunities across all Canadian provinces and cities!
 * Feel free to [contact me on LinkedIn](https://www.linkedin.com/in/hhtam) for any opportunities, questions, or just a chat!!
